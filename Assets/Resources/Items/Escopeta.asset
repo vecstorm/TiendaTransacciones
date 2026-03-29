@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b161a3a376cc6714c818fb16726a2e27, type: 3}
+  m_Name: Escopeta
+  m_EditorClassIdentifier: 
+  id: 2
+  itemName: Escopeta
+  price: 400
+  MaxStack: 1
+  description: "Arma de corto alcance. Dispara un cartucho de perdigones para inflijir
+    mas da\xF1o contra mas cerca est\xE9s del enemigo"
+  icon: {fileID: -1006898289, guid: 919260437b8d93a4baf0893386b01806, type: 3}
